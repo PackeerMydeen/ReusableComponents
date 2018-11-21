@@ -1,0 +1,11 @@
+.button-1 {
+	cursor: pointer !important;
+	outline: none;
+}
+.disabled {
+	cursor: none !important;
+	pointer-events: none;
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(159, 160, 161) !important;
+	background-image: unset !important;
+}
